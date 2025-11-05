@@ -1,0 +1,4 @@
+P4PORT=localhost:1666
+P4USER=angel1991
+P4CLIENT=angel1991_Ryzen9Gigabyte_4592
+P4IGNORE=.p4ignore.txt;.gitignore
